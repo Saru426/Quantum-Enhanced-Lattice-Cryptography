@@ -1,2 +1,2 @@
 # Quantum-Enhanced-Lattice-Cryptography
-Quantum-Enhanced Lattice Cryptography: AES Encryption with Crystal Kyber and QRNG IV
+The project extends beyond theoretical exposition to practical realization through Java implementation leveraging the robust Bouncy Castle libraries. Leveraging JavaFX for both backend and frontend development, the proposed scheme not only encrypts files but also facilitates secure sharing with recipients. The frontend interface provides users with an intuitive platform for encrypting files, ensuring ease of use and seamless integration into existing workflows. Conversely, the decryption interface empowers authorized users to effortlessly retrieve encrypted data, fostering a user-friendly experience without compromising security.
